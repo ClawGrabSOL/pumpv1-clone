@@ -6,8 +6,8 @@ import { Providers } from "./providers";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Pumpv1 — Meme Coin Launchpad",
-  description: "Launch and trade meme coins on Solana.",
+  title: "SOLUP — Meme Coin Launchpad",
+  description: "SOLUP. Launch and trade meme coins on Solana.",
   icons: { icon: "/logo.png" },
 };
 

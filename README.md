@@ -1,6 +1,6 @@
-# pumpv1-clone
+# SOLUP
 
-A fresh meme-coin launchpad UI clone — visually mirrors pumpv1.net (dark theme, Solana-green accents, bracket-style nav) but ships with **zero real tokens** and **demo data only**.
+A fresh meme-coin launchpad UI — dark theme, Solana-green accents, bracket-style nav. Ships with **zero real tokens** and **demo data only**.
 
 ## Stack
 

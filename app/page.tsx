@@ -49,8 +49,8 @@ export default function Home() {
       <header className="flex items-center justify-between px-4 md:px-6 py-3 border-b border-[var(--border)]">
         <div className="flex items-center gap-5">
           <a href="/" className="flex items-center gap-2">
-            <Image src="/logo.png" alt="Pumpv1" width={28} height={28} className="rounded-md" />
-            <span className="font-bold text-white tracking-tight hidden sm:inline">pumpv1</span>
+            <Image src="/logo.png" alt="SOLUP" width={28} height={28} className="rounded-md" />
+            <span className="font-bold text-white tracking-tight hidden sm:inline">SOLUP</span>
           </a>
           <nav className="flex items-center gap-3 text-[var(--muted)]">
             <BracketLink>how it works</BracketLink>
@@ -154,7 +154,7 @@ export default function Home() {
       {/* ── FOOTER ── */}
       <footer className="border-t border-[var(--border)] px-6 py-6 text-xs text-[var(--muted)]">
         <div className="max-w-6xl mx-auto flex flex-wrap items-center justify-between gap-3">
-          <div>pumpv1 · demo build · not financial advice · no real tokens</div>
+          <div>SOLUP · demo build · not financial advice · no real tokens</div>
           <div className="flex items-center gap-4">
             <a href="#" className="hover:text-white">terms</a>
             <a href="#" className="hover:text-white">privacy</a>
