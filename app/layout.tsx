@@ -8,7 +8,6 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 export const metadata: Metadata = {
   title: "SOLUP — Meme Coin Launchpad",
   description: "SOLUP. Launch and trade meme coins on Solana.",
-  icons: { icon: "/logo.png" },
 };
 
 export default function RootLayout({
